@@ -1,4 +1,4 @@
-project = 'ExpressVPN'
+project = 'pulse secure login error'
 author = 'Your Name'
 release = '1.0'
 
